@@ -1,31 +1,18 @@
-# ProjetoAngularJustto
+# Projeto Angular - Justto
 
 Esse projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) versão 6.0.1.
 
 ## Requisitos
 
-É necessário ter o [Node.js](https://nodejs.org/en/download/) instalado.
+É necessário ter o [Node.js](https://nodejs.org/en/download/) instalado na máquina.
 
-## Development server
+## Como rodar o programa
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+ 1 - Baixe o código disponível no GitHub.
+ 2 - Após instalar o Node.js, abra o terminal da máquina e acesse o caminho da pasta onde foi salvo o código do projeto.
+ 3 - Utilize o seguinte comando: `npm install`.
+ 4 - Para iniciar o servidor, utilize o comando: `ng serve`. Acesse o projeto no navegador através do endereço: `http://localhost:4200/`.
 
-## Code scaffolding
+## Mais Ajuda
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Para obter mais ajuda sobre o Angular CLI, use o comando `ng help` no terminal ou acesse [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
