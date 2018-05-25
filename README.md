@@ -1,6 +1,10 @@
 # ProjetoAngularJustto
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
+Esse projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) versão 6.0.1.
+
+## Requisitos
+
+É necessário ter o [Node.js](https://nodejs.org/en/download/) instalado.
 
 ## Development server
 
